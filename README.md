@@ -1,5 +1,5 @@
 # GitHub JSON Toolkit for LLM(chatGPT) Training Data
-
+![GitHub JSON-GPT Banner](JSON-Convert/banner.png)
 ## Overview
 The GitHub JSON Toolkit for LLM Training Data is an open-source project aimed at simplifying operations on JSON files, especially focusing on the needs around Large Language Models (LLM) like ChatGPT. This toolkit is equipped with scripts for analyzing, comparing, merging, and converting JSON files — essential tasks for preparing and processing training datasets for LLMs.
 
